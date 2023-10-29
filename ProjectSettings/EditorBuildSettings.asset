@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/MVVM Demo/Scenes/Init.unity
+    path: Assets/MVVM/Scenes/Init.unity
     guid: 5ad95e44c332dab42ab39d833d6c5ba3
   - enabled: 1
-    path: Assets/MVVM Demo/Scenes/main.unity
+    path: Assets/MVVM/Scenes/main.unity
     guid: 45c0ebbbc821a4541a85ee6e23d394bd
   - enabled: 1
-    path: Assets/MVVM Demo/Scenes/mini_game.unity
+    path: Assets/MVVM/Scenes/mini_game.unity
     guid: 1af29f1d11e18a842a4b5bd0bc5e24ae
   m_configObjects: {}
